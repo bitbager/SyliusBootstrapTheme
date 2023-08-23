@@ -1,5 +1,5 @@
 {
-    "name": "sylius/store-bootstrap-theme",
+    "name": "sylius/bootstrap-theme",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Bootstrap Theme for Sylius",
